@@ -59,7 +59,11 @@ We're available at techhiring@superjoin.ai for all queries.
 All the best ✨.
 
 ## Developer's Section
+
 *Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
+
+Watch the [overview video on Loom](https://www.loom.com/share/80e4b05e76af414da845fd03dd2789e9?sid=f57e7f69-fce9-40ce-8b02-f4e37b5db1cc) to see a demonstration of the project.
+
 
 # Google Sheets and MySQL Synchronization
 
