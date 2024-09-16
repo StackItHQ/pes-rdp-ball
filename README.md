@@ -168,3 +168,9 @@ if __name__ == "__main__":
     SPREADSHEET_ID = 'your_google_sheet_id_here'  # Replace with your Google Sheet ID
     monitor_all_sheets(SPREADSHEET_ID)
 
+## Google Sheets Access
+
+- **Spreadsheet Link:** [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KeyEaVNt-LK-Fu68bCmc8sHLdkne52Qwb7GIunDq5jQ/edit?gid=0#gid=0)
+- **Instructions:**
+  - Share the spreadsheet with everyone who needs access.
+  - Ensure that "Editor" permissions are granted to allow them to make changes.
